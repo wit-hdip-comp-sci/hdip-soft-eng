@@ -1,2 +1,2 @@
 
-> This is a selectoi of modules that will form the basis of a proposed Higher Certificate / Diploma in Software Engineering at the SETU, Ireland.
+> This is a selection of modules that will form the basis of a proposed Higher Certificate / Diploma in Software Engineering at the SETU, Ireland. These modules represent state of the art approaches to the their disciciplines. They are delivered with appropriate use of Large Language Model (LLM) tools & techniques. In addition, the platform you are browisng these coures with ([tutors](https://tutors.dev)) makes available the course content as a stream for LLM learning for an [enhanced learnign experience](https://tutors.dev/llm/soft-eng-devops) facilitated by LLM tools.
