@@ -1,0 +1,3 @@
+# Higher Diploma in Software Engineering
+
+This 30 credit programme will focus updating the skills in AI assisted full stack software development. It will distil the latest trends in front end, back end, microservice and cloud development, combining these with updated approaches to software testing strategies, security principles, developer operations and modern mobile development. All of these disciplines have changed significantly over the past 5 years, in some cases radically so. The course will tour these major innovations in the field  with a comprehensive, focussed curriculum with a strong emphasis on practical skills. 
