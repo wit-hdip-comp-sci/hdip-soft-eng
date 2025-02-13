@@ -1,0 +1,2 @@
+
+> Online Computer Science programmes at SETU are delivered in the open, with prospective student and industry partners able to full evaluate the complete programme content. The links below may request a GitHub account to sign in, but are otherwise open to all.

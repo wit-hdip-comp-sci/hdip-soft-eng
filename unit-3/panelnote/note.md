@@ -1,0 +1,2 @@
+
+> The programme team have a mature course philosophy, evolved over multiple cycles of online delivery of Computer Science programmes. The team have also developed considerable online support for the learning communities on these programmes.
