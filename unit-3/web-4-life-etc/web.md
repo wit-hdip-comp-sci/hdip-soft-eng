@@ -1,4 +1,5 @@
 ---
+order: 2
 icon: 
   type: ri:plant-fill
   color: 9d578a
