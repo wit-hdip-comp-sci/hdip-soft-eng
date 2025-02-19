@@ -5,6 +5,6 @@ icon:
   color: 009656
 ---
 
-Workshop Two
+Onsite Workshop
 
-Introducing semester 2 
+A typical workshop for the programme
