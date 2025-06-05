@@ -1,1 +1,1 @@
-Candidate Modules
+Programme Modules
